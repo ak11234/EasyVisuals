@@ -7,7 +7,7 @@ import javax.sound.sampled.SourceDataLine;
 
 
 /**
- * Created by Adam Kalman on 7/6/2016. EasyVisuals for Java 1.8
+ * Created by Adam Kalman on 7/6/2016. EasyVisuals for Java 1.8.
  */
 
 
